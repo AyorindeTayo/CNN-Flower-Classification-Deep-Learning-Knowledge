@@ -1,2 +1,2 @@
 # Case-Study-A-Deep-Learning-Knowledge
-Image Classification 
+Flower Image Classification using CNN
